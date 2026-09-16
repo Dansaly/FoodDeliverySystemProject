@@ -1,0 +1,14 @@
+*.class
+bin/
+
+*.log
+
+.metadata
+.recommenders/
+*.tmp
+*.bak
+*.swp
+
+# OS generated files (קבצי מערכת הפעלה מיותרים)
+.DS_Store
+Thumbs.db

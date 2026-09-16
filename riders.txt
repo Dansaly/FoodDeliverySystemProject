@@ -1,0 +1,10 @@
+100000001,Speedy,Gonzales,0521111111,Scooter,true
+100000002,Flash,Gordon,0522222222,Bicycle,true
+100000003,Mad,Max,0523333333,Car,false
+100000004,Ghost,Rider,0524444444,Motorcycle,true
+100000005,Tony,Hawk,0525555555,Skateboard,true
+100000006,Barry,Allen,0526666666,Bicycle,false
+100000007,Usain,Bolt,0527777777,Scooter,true
+100000008,Clark,Kent,0528888888,Car,true
+100000009,Bruce,Wayne,0529999999,Motorcycle,false
+100000010,Peter,Parker,0521231234,Scooter,true

@@ -1,0 +1,10 @@
+1,Burger King,Fast Food,4.2,true,15.0
+2,Sushi,Japanese,4.8,true,25.0
+3,Pizza Hut,Italian,4.0,true,12.0
+4,Shawarma HaNasi,Middle Eastern,4.5,true,10.0
+5,Cafe Cafe,Cafe,3.9,false,18.0
+6,El,Meat,4.7,true,30.0
+7,Wok,Asian,4.3,true,15.0
+8,Pasta Basta,Italian,4.6,true,14.0
+9,Vegan reee,Vegan,4.9,true,20.0
+10,Sweet,Dessert,4.1,false,12.0

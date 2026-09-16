@@ -1,0 +1,12 @@
+123,Alice,Smith,12345,Tel Aviv,0501111111,alice@gmail.com,500.0
+456,Bob,Cohen,67890,Haifa,0502222222,bob@walla.com,200.0
+101,Charlie,Levi,11111,Jerusalem,0503333333,charlie@gmail.com,150.0
+102,Diana,Prince,22222,Eilat,0504444444,diana@yahoo.com,300.0
+103,Eve,Malka,33333,Rishon LeZion,0505555555,eve@gmail.com,450.0
+104,Frank,Ocean,44444,Ashdod,0506666666,frank@gmail.com,50.0
+105,Grace,Hopper,55555,Netanya,0507777777,grace@tech.com,1000.0
+106,Heidi,Klum,66666,Tel Aviv,0508888888,heidi@model.com,0.0
+107,Ivan,Drago,77777,Haifa,0509999999,ivan@gym.com,75.5
+108,Judy,Garland,88888,Ramat Gan,0501234567,judy@star.com,320.0
+111,da,sa,12345,ddd,0587744834,g@g,150.0
+1221111,da,sa,11111,aa,01111111,g@g,676767.0
